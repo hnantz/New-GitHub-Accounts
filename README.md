@@ -3,6 +3,6 @@
 cm@obviu.com
 biscuit@orbviu.com
 frederick.umminger@orbviu.com
-jian.zhou.orbviu.com
+jian.zhou@orbviu.com
 rich.cowie@orbviu.com
 hnantz@orbviu.com
